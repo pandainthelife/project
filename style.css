@@ -1,0 +1,17 @@
+p {
+    font-size: 24px;
+    line-height: 34px;
+}
+header {
+    background-color: blueviolet;
+    color: white;
+}
+h1, h2 {
+    font-family: Arial, sans-serif;
+}
+.first {
+    background-color: pink;
+}
+.second {
+    background-color: rgb(78, 241, 241);
+}
