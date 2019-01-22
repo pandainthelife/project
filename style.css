@@ -4,12 +4,15 @@
 }
 h1, h2 {
     font-family: Arial, sans-serif;
+    margin-bottom: -25px;
 }
 .first {
     background-color: pink;
+    margin: 10px;
 }
 .second {
     background-color: rgb(78, 241, 241);
+    padding: 30px;
 }
 p {
     font-size: 24px;
